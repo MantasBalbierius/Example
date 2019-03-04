@@ -1,6 +1,6 @@
 # How to change data settings of NOIA Node GUI for Windows 10
 
-**Settings file automatically is located and generated on directory AppData\Roaming\noia-node to quick locate settings file press "File folder" button on Wallet settings**
+**Settings file automatically is located and generated on directory _AppData\Roaming\noia-node_ to quick locate settings file press "File folder" button on Wallet settings**
 
 ## Wallet > Wallet 
 Settings are for your ethereum wallet address. You can simply copy your wallet address with ctrl+c and press button "Paste from clipboard".
