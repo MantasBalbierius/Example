@@ -25,7 +25,7 @@ On settings file Storage size is located on `size` name under `[node.storage]`. 
 
 ## Settings > Node > Enable NAT-PMP
 The NAT Port Mapping Protocol (NAT-PMP) is a network protocol for establishing network address translation (NAT) settings and port forwarding configurations automatically without user effort.
-On settings file NAT-PMP is located on `natPmp` name. **Example:** `natPmp=true` to enable or `natPmp=false` to disable. We recommend NAT-PMP to be enabled.
+On settings file NAT-PMP is located on `natPmp` name. **Example:** `natPmp=true` to enable or `natPmp=false` to disable. _We recommend NAT-PMP to be enabled_.
 
 ## Settings > Application > Minimize to tray
 Allows user to minimize application to the windows tray.
