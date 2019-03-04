@@ -12,16 +12,16 @@ On settings file is located on `masterAddress` name. **Example:** `masterAddress
 
 ## Settings > Node > WebRTC control port and WebRTC data port
 WebRTC is an open source project to enable realtime communication of audio, video and data in Web and native apps. You can check it if it is active or not by clicking on "Check port" button.
-On settings file control port is located on `controlPort` name. **Example:** `controlPort=8048`. Port for Transmission Control Protocol (TCP)
-On settings file data port is located on `dataPort` name. **Example:** `dataPort=8058`. Port for User Datagram Protocol (UDP)
+On settings file control port is located on `controlPort` name. **Example:** `controlPort=8048`. Port for Transmission Control Protocol (TCP)<br/>
+On settings file data port is located on `dataPort` name.**Example:** `dataPort=8058`. Port for User Datagram Protocol (UDP)
 
 ## Settings > Node > Storage directory
 Storage directory is located by default on *\AppData\Roaming\noia-node\storage* but you can change it by pressing on folder icon or your storage address.
-On settings file Storage directory is located on `dir` name under `[node.storage]`. **Example:** `dir=C:\Users\NOIA\AppData\Roaming\noia-node\storage`
+On settings file Storage directory is located on `dir` name under `[node.storage]`.<br/>**Example:** `dir=C:\Users\NOIA\AppData\Roaming\noia-node\storage`
 
 ## Settings > Node > Storage size
 Storage size settings is to share your storage capacity. Storage is measuring in bytes.
-On settings file Storage size is located on `size` name under `[node.storage]`. **Example:** `size=Storage size` or `size=1073741824 for 1 Gigabyte` 
+On settings file Storage size is located on `size` name under `[node.storage]`. **Example:** `size=Storage size` or `size=10737418240 for 10 Gigabytes` 
 
 ## Settings > Node > Enable NAT-PMP
 The NAT Port Mapping Protocol (NAT-PMP) is a network protocol for establishing network address translation (NAT) settings and port forwarding configurations automatically without user effort.
