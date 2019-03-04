@@ -11,9 +11,9 @@ NOIA master server address.
 On settings file is located on `masterAddress` name. **Example:** `masterAddress=wss://csl-masters.noia.network:5565`
 
 ## Settings > Node > WebRTC control port and WebRTC data port
-WebRTC is an open source project to enable realtime communication of audio, video and data in Web and native apps. You can check it if it is active or not by clicking on "Check port" button.
+WebRTC is an open source project to enable realtime communication of audio, video and data in Web and native apps. You can check it if it is active or not by clicking on "Check port" button.<br/>
 On settings file control port is located on `controlPort` name. **Example:** `controlPort=8048`. Port for Transmission Control Protocol (TCP)<br/>
-On settings file data port is located on `dataPort` name.**Example:** `dataPort=8058`. Port for User Datagram Protocol (UDP)
+On settings file data port is located on `dataPort` name. **Example:** `dataPort=8058`. Port for User Datagram Protocol (UDP)
 
 ## Settings > Node > Storage directory
 Storage directory is located by default on *\AppData\Roaming\noia-node\storage* but you can change it by pressing on folder icon or your storage address.
