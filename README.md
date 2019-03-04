@@ -1,6 +1,6 @@
 # How to change data settings of NOIA Node GUI for Windows 10
 
-**Settings file automatically is located and generated on directory _AppData\Roaming\noia-node_ to quick locate settings file press "File folder" button on Wallet settings**
+**Settings file automatically is located and generated on directory _AppData\Roaming\noia-node_ to quick locate settings file press "File folder" button on Wallet settings**. You can open and modify file `node.settings` by text editor. Example: Notepad
 
 ## Wallet > Wallet 
 Settings are for your ethereum wallet address. You can simply copy your wallet address with ctrl+c and in NOIA Node GUI press button "Paste from clipboard".
@@ -30,3 +30,5 @@ On settings file NAT-PMP is located on `natPmp` name. **Example:** `natPmp=true`
 ## Settings > Application > Minimize to tray
 Allows user to minimize application to the windows tray.
 On settings file Minimize to tray is located on `minimizeToTray` name. **Example:** `minimizeToTray=true` to minimize or `minimizeToTray=false` minimize is not allowed.
+
+**_Important!_ After changing `node.settings` file you need to restart NOIA Node GUI**
