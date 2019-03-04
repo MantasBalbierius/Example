@@ -17,7 +17,7 @@ On settings file data port is located on `dataPort` name. **Example:** `dataPort
 
 ## Settings > Node > Storage directory
 Storage directory is located by default on *\AppData\Roaming\noia-node\storage* but you can change it by pressing on folder icon or your storage address.
-On settings file Storage directory is located on `dir` name under `[node.storage]`. **Example:** `dir=Storage directory`
+On settings file Storage directory is located on `dir` name under `[node.storage]`. **Example:** `dir=C:\Users\NOIA\AppData\Roaming\noia-node\storage`
 
 ## Settings > Node > Storage size
 Storage size settings is to share your storage capacity. Storage is measuring in bytes.
@@ -29,4 +29,4 @@ On settings file NAT-PMP is located on `natPmp` name. **Example:** `natPmp=true`
 
 ## Settings > Application > Minimize to tray
 Allows user to minimize application to the windows tray.
-On settings file Minimize to tray is located on `minimizeToTray` name. **Example:** `minimizeToTray=true` to minimize or `minimizeToTray=false` is not allowed.
+On settings file Minimize to tray is located on `minimizeToTray` name. **Example:** `minimizeToTray=true` to minimize or `minimizeToTray=false` minimize is not allowed.
