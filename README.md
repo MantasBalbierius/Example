@@ -16,7 +16,7 @@ In settings file control port is located on `controlPort` name. **Example:** `co
 In settings file data port is located on `dataPort` name. **Example:** `dataPort=8058`. Port for User Datagram Protocol (UDP)
 
 ## Settings > Node > Storage directory
-Storage directory is located by default on *\AppData\Roaming\noia-node\storage* but you can change it by pressing on folder icon or your storage address.
+Storage directory is located by default on *\AppData\Roaming\noia-node\storage* but you can change it by pressing on folder icon or on your storage address.
 In settings file Storage directory is located on `dir` name under `[node.storage]`.<br/>**Example:** `dir=C:\Users\NOIA\AppData\Roaming\noia-node\storage`
 
 ## Settings > Node > Storage size
