@@ -31,4 +31,4 @@ On settings file NAT-PMP is located on `natPmp` name. **Example:** `natPmp=true`
 Allows user to minimize application to the windows tray.
 On settings file Minimize to tray is located on `minimizeToTray` name. **Example:** `minimizeToTray=true` to minimize or `minimizeToTray=false` minimize is not allowed.
 
-> **_Important!_ After changing `node.settings` file you need to restart NOIA Node GUI**
+**_Important!_ After changing `node.settings` file you need to restart NOIA Node GUI**
